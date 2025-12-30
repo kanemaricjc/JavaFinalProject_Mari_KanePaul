@@ -7,4 +7,8 @@ Currently, this program authenticates pre-made accounts, but should you want to 
 When the code is run, a GUI instance will appear, asking for the user's account and password. These parameters are then authenticated and, if successful, will make a Dashboard instance where the user can make deposits/withdrawals. After the user is done with their transactions, the user can then log out to prevent unauthorized access.
 ### Sample Output
 [GUI](https://github.com/kanemaricjc/JavaFinalProject_Mari_KanePaul/blob/main/SampleOutputs/att.70k25PlYKyGr0xDfCoLJ4SuQlZ89oABJ9NbmpiiE7Bc.jpeg)
+[Logging in](https://github.com/kanemaricjc/JavaFinalProject_Mari_KanePaul/blob/main/SampleOutputs/att.NGom_3JrNBaU3Xi6-UwuAwH5Wg_41W277pP9S_96cXg.jpeg)
+[Dashboard](https://github.com/kanemaricjc/JavaFinalProject_Mari_KanePaul/blob/main/SampleOutputs/att.emmYHSewoJQb-eXUHvuU8w0xc-ZQt8n5ZG-1nRnfRls.jpeg)
+[Deposit](https://github.com/kanemaricjc/JavaFinalProject_Mari_KanePaul/blob/main/SampleOutputs/att.-gGYmdZylvnxwPjM-UtogWYtotV2f2dkiz4e-XQ4wA4.jpeg)
+[Log Out](https://github.com/kanemaricjc/JavaFinalProject_Mari_KanePaul/blob/main/SampleOutputs/att.9R6qeMZFO9YWTNmI3KGNWHIg7EFrC4g8Vo4RpQo1-40.jpeg)
 
