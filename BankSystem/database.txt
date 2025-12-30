@@ -1,0 +1,4 @@
+jamelabianca:1234:1000000.0
+kpthepogi:12345678:1000100.0
+
+sophianicole:password:960.0
