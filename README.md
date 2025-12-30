@@ -6,5 +6,5 @@ Currently, this program authenticates pre-made accounts, but should you want to 
 ### How to Run The Program
 When the code is run, a GUI instance will appear, asking for the user's account and password. These parameters are then authenticated and, if successful, will make a Dashboard instance where the user can make deposits/withdrawals. After the user is done with their transactions, the user can then log out to prevent unauthorized access.
 ### Sample Output
-![Uploading image.png…]()
+[GUI](https://github.com/kanemaricjc/JavaFinalProject_Mari_KanePaul/blob/main/SampleOutputs/att.70k25PlYKyGr0xDfCoLJ4SuQlZ89oABJ9NbmpiiE7Bc.jpeg)
 
